@@ -1,0 +1,43 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/bg/imgbg.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 45%;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  font-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 1px;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/bg/imgbg2.jpg");
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background: url("../assets/bg/imgbg3.jpg");
+  background-size: cover;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.trendingImage {
+  height: 500px;
+}
